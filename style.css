@@ -7,5 +7,6 @@
 
 body {
     background-color: burlywood;
-    color: blue;    
+    color: blue;
+    border-radius: 2px solid black;    
 }
